@@ -2,7 +2,7 @@
 
 # Portfolio-Site :
 This is my First Project for Udacity Front End Nanodegree program.
-And Goal of this project is replicating a PDF design Mockup provided for us by Udacity and To build a responsive portfolio.
+And Goal of this project is replicating a PDF design Mockup provided for us by Udacity To build a responsive portfolio.
 ## Technology-used-on-the-project :
 * HTML5 
 * CSS3 
